@@ -1,0 +1,11 @@
+name = "string_converter"
+description = "interactive ada program with strings"
+version = "0.1.0-dev"
+
+authors = ["Cristina Fernandez"]
+maintainers = ["Cristina Fernandez <fernanc3@tcnj.edu>"]
+licenses = "MIT OR Apache-2.0 WITH LLVM-exception"
+website = ""
+tags = []
+
+executables = ["string_converter"]
